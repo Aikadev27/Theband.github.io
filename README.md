@@ -1,3 +1,3 @@
 # Not responsive
 
-Clone THE BAND template from we3school with fullstack.edu.vn
+Clone THE BAND template of we3school with fullstack.edu.vn
